@@ -1,0 +1,283 @@
+﻿body {
+	font-family: Arial;
+	margin: 0 !important;
+	padding: 0 !important;
+	background-color: #ededed;
+}
+
+.inner {
+	width: 1200px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.CompBrand {
+    text-align: center;
+    font-size: x-large;
+    float: left;
+    width: 370px;
+    margin: 10px 10px 10px 10px;
+    height: 100px;
+    border: solid;
+    background-color: aquamarine;
+    
+}
+.CompBrand a:hover{
+    background-color:blue;
+}
+.FormCenter {
+    text-align: right;
+    width: 300px;
+    float: left;
+}
+
+#headerContainer {
+	background-color: #ededed;
+	height: 100px;
+	margin-bottom: 0px;
+}
+
+.textButton {
+	background-color: rgba(255, 255, 255, 0.00);
+	border: none;
+	color: black;
+	text-decoration: underline;
+	display: inline-block;
+	font-size: 16px;
+}
+
+.textHeading {
+	color: black;
+	font-size: 18pt;
+}
+
+
+
+#login {
+	float: right;
+	clear: both;
+}
+
+#navbarContainer {
+	background-color: #24292e;
+	color: white;
+	height: 35px;
+	clear: left;
+}
+
+#navbar ul {
+	list-style: none;
+	padding-left: 0;
+}
+
+	#navbar ul li a {
+		float: left;
+		color: white;
+		text-decoration: none;
+		padding-left: 20px;
+		padding-right: 20px;
+		height: 35px;
+		text-align: center;
+		line-height: 35px;
+	}
+
+		#navbar ul li a:hover {
+			background-color: #464d55;
+		}
+
+.navItem {
+	height: 60px;
+	padding: 10px;
+	vertical-align: central;
+	color: #ffffff;
+}
+
+#contentContainer {
+	background-color: #ffffff;
+	height: auto;
+}
+
+#mainContent {
+	clear: left;
+	padding-top: 30px;
+	padding-bottom: 30px;
+	height: auto;
+}
+
+#searchFilter {
+	width: 300px;
+	float: left;
+}
+
+#searchResults {
+	width: 900px;
+	float: left;
+	text-align: center;
+}
+
+#SumamryBar {
+	float: right;
+	padding: 15px 15px 15px 15px;
+	background-color: white;
+	border-radius: 5px;
+	box-shadow: 2px 2px 30px rgba(0, 0, 0, 0.21);
+}
+
+#footerContainer {
+	clear: both;
+	background-color: #ededed;
+	height: 100%;
+}
+
+#footer {
+	padding: 15px;
+}
+
+.addPartButton {
+	height: 50px;
+	color: #3f87de;
+	background-color: rgb(245, 245, 245);
+	text-align: center;
+	font-size: x-large;
+	width: 670px;
+	border: thick dashed #3f87de;
+	border-radius: 10px;
+	margin-left: auto;
+	margin-right: auto;
+	box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.31);
+}
+
+.floatRight {
+	float: right;
+}
+
+
+
+
+.configListItem {
+	border: 2px;
+	border-color: #3f87de;
+	border-style: solid;
+	border-radius: 8px;
+	background-color: #efefef;
+	color: #464d55;
+	width: 645px;
+	height: 40px;
+	line-height: 40px;
+	padding: 2px 0px 2px 15px;
+	margin-bottom: 25px;
+	box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);
+}
+
+.cliSelect {
+	background-color: #3f87de;
+	border-color: #3f87de;
+	border-style: solid;
+	border-radius: 3px;
+	color: white;
+}
+
+.cliSelected {
+	background-color: #3fde42;
+	border-color: #3fde42;
+	border-style: solid;
+	border-radius: 3px;
+	color: white;
+}
+
+.cliDelete {
+	background-color: #e84123;
+	border-color: #e84123;
+	border-style: solid;
+	border-radius: 3px;
+	color: white;
+	margin-right: 15px;
+}
+
+.confiogPart {
+	border: none;
+	border-radius: 4px;
+	background-color: #f1f1f1;
+	width: 645px;
+	height: auto;
+	padding: 10px 10px 5px 10px;
+	margin-bottom: 15px;
+}
+
+.confiogPartWarning {
+	border: none;
+	border-radius: 4px;
+	background-color: #d5b69c;
+	width: 645px;
+	height: auto;
+	padding: 10px 10px 5px 10px;
+	margin-bottom: 15px;
+}
+
+.billing {
+	width: 350px;
+	float: right;
+	margin-right: 50px;
+}
+
+.purchaseButton {
+	height: 60px;
+	line-height: 55px;
+	padding: 0px 15px 0px 15px;
+	color: #464d55;
+	background-color: #efc03e;
+	border-color: #e0ae23;
+	text-align: center;
+	font-size: x-large;
+	border-style: solid;
+	border-width: 3px;
+	border-radius: 5px;
+	margin-right: 90px;
+	float: right;
+}
+
+.orderButton {
+	height: 60px;
+	width: 200px;
+	line-height: 55px;
+	padding: 0px 15px 0px 15px;
+	color: #464d55;
+	background-color: #40ef3e;
+	border-color: #2fdb2d;
+	text-align: center;
+	font-size: x-large;
+	border-style: solid;
+	border-width: 3px;
+	border-radius: 5px;
+	margin-left: 10px;
+	margin-top: 40px;
+	clear: both;
+}
+
+.pli {
+	background-color: #f8f8f8;
+	margin-bottom: 15px;
+	padding: 10px 10px 10px 15px;
+	border-radius: 8px;
+	border-width: 2px;
+	border-style: solid;
+	border-color: #ededed;
+	box-shadow: 2px 2px 15px rgba(0, 0, 0, 0.05);
+	text-align: center;
+}
+#ban{
+	margin-left:auto;
+	margin-right:auto;
+	display:block;
+}
+.center {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 50%;
+}
+#container {
+	margin-left: auto;
+	margin-right: auto;
+	width: 1202px;
+}

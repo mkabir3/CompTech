@@ -1,0 +1,54 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true"  CodeBehind="Master.master.cs" Inherits="CompTech.Master" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <link rel="stylesheet" href="Styles/Style.css">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    </head>
+<body>
+     <form id="form1" runat="server">
+
+        <div id="container">
+            <div id="ban">
+            <asp:Image ID="Image1" runat="server" ImageUrl="~/Images/banner1.jpg" Height="320px" Width="1202px" /> 
+            </div>
+                <div id="headerContainer" >
+                    <p>
+                        <asp:HyperLink ID="HyperLink1" runat="server" NavigateUrl="~/Register.aspx">Register</asp:HyperLink>
+                    </p>
+                <div id="header" class="inner">
+                    <div id="login">     
+                 </div>      
+                </div>      
+            </div>     
+            <div id="navbarContainer" >
+                <div id="navbar" class="inner">
+                    <ul>
+                        <li><a href="Default.aspx">Home</a></li>
+                        <li><a href="Products.aspx">Products</a></li>
+                        <li><a href="AboutUs.aspx">About us</a></li>
+                        <li><a href="Cart.aspx">Cart</a></li>
+                    </ul>
+                </div>
+            </div>
+            <div id="contentContainer">
+                <div id="mainContent" class="inner">
+                    <asp:ContentPlaceHolder ID="Content" runat="server">
+                    </asp:ContentPlaceHolder>
+                </div>
+            </div>
+            <div id="footerContainer">
+                <div id="footer"  class="inner">
+                    Copyright Comp229, Masudur Rahman: 300578293, Md Kabir: 300527330
+
+                </div>
+
+            </div>
+        </div>
+    </form>
+</body>
+</html>

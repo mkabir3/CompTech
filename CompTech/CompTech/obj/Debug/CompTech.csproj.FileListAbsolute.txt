@@ -1,0 +1,18 @@
+C:\Comp229Project\CompTech\CompTech\bin\CompTech.dll.config
+C:\Comp229Project\CompTech\CompTech\bin\CompTech.dll
+C:\Comp229Project\CompTech\CompTech\bin\CompTech.pdb
+C:\Comp229Project\CompTech\CompTech\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Comp229Project\CompTech\CompTech\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Comp229Project\CompTech\CompTech\obj\Debug\CompTech.csprojResolveAssemblyReference.cache
+C:\Comp229Project\CompTech\CompTech\obj\Debug\CompTech.csproj.CoreCompileInputs.cache
+C:\Comp229Project\CompTech\CompTech\obj\Debug\CompTech.dll
+C:\Comp229Project\CompTech\CompTech\obj\Debug\CompTech.pdb
+C:\Users\Md\Desktop\Web Appl-229\Comp229Project\CompTech\CompTech\bin\CompTech.dll.config
+C:\Users\Md\Desktop\Web Appl-229\Comp229Project\CompTech\CompTech\bin\CompTech.dll
+C:\Users\Md\Desktop\Web Appl-229\Comp229Project\CompTech\CompTech\bin\CompTech.pdb
+C:\Users\Md\Desktop\Web Appl-229\Comp229Project\CompTech\CompTech\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Md\Desktop\Web Appl-229\Comp229Project\CompTech\CompTech\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Md\Desktop\Web Appl-229\Comp229Project\CompTech\CompTech\obj\Debug\CompTech.csprojResolveAssemblyReference.cache
+C:\Users\Md\Desktop\Web Appl-229\Comp229Project\CompTech\CompTech\obj\Debug\CompTech.csproj.CoreCompileInputs.cache
+C:\Users\Md\Desktop\Web Appl-229\Comp229Project\CompTech\CompTech\obj\Debug\CompTech.dll
+C:\Users\Md\Desktop\Web Appl-229\Comp229Project\CompTech\CompTech\obj\Debug\CompTech.pdb
